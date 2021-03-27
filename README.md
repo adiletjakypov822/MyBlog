@@ -3,7 +3,6 @@
 * [General info](#general-info)
 * [API Description](#API-Description)
 * [What is used](#What-is-used)
-* [Notes](#notes)
 * [Heroku Link](#heroku-link)
 
 <img width="1440" alt="Screen Shot 2021-03-27 at 12 33 39 AM" src="https://user-images.githubusercontent.com/59058636/112677816-607c6080-8e94-11eb-8a88-0471d0bcbb2b.png">
@@ -29,7 +28,8 @@
 
 * PostgreSQL
 * Bootstrap
+* Spring
 
 ## Heroku Link
 https://adiletblog.herokuapp.com/
-* Spring
+
